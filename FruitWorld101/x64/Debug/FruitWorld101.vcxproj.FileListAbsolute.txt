@@ -1,0 +1,5 @@
+D:\Project_fruit_thanh_toan\FruitWorld101\FruitWorld101\x64\Debug\FruitWorld101.vcxproj.AssemblyReference.cache
+D:\Project_fruit_thanh_toan\FruitWorld101\FruitWorld101\x64\Debug\FruitWorld101.form1.resources
+D:\Project_fruit_thanh_toan\FruitWorld101\FruitWorld101\x64\Debug\FruitWorld101.form2.resources
+D:\Project_fruit_thanh_toan\FruitWorld101\FruitWorld101\x64\Debug\FruitWorld101.form3.resources
+D:\Project_fruit_thanh_toan\FruitWorld101\FruitWorld101\x64\Debug\FruitWorld101.vcxproj.GenerateResource.cache
